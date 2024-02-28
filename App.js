@@ -1,3 +1,13 @@
+/*
+ * File: App.java
+ * Author: Hajdara Patrik
+ * Copyright: 2024, Hajdara Patrik
+ * Group: SZOFT II/2/N
+ * Date: 2024-02-28
+ * Github: https://github.com/06776/
+ * Licenc: GNU GPL
+ */
+
 import React, { useState } from "react";
 import {
   View,
